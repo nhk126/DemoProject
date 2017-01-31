@@ -11,6 +11,7 @@ public class ResizableObject {
 		
 		ChromeDriver driver = new ChromeDriver();
 		
+		//small object move to large object
 		driver.get("http://jqueryui.com/resizable/");
 		driver.manage().window().maximize();
 		
