@@ -4,6 +4,7 @@ public class test2{
 
     public static void main (String[] args){
       
-      System.out.Println("This is Test2");
+    	//test2 updated
+    	System.out.println("This is test2");
     }
 }
